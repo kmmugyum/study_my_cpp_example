@@ -3,4 +3,4 @@ project(study_cpp_folder)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(study_cpp_folder templete_keyword.cpp)
+add_executable(study_cpp_folder "templete keyword/templete_keyword.cpp")
