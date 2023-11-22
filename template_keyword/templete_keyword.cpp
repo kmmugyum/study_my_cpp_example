@@ -26,7 +26,7 @@ private:
 
 
 /*
- * 그래서 templete을 이용하여 하나만 만들어서 사용할 수 있다.
+ * 그래서 template을 이용하여 하나만 만들어서 사용할 수 있다.
  */
 
 template<typename T>
